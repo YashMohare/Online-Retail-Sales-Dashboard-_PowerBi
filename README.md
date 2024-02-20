@@ -11,6 +11,8 @@ revenue is being generated and what are the main factors affecting the online st
 1))
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue
 for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+
+
 ![image](https://github.com/YashMohare/Online-Retail-Sales-Dashboard-_PowerBi/assets/160584848/0041a780-e4b9-4f89-bd28-2db6795f5730)
 
 
