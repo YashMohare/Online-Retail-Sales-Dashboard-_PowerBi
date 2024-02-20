@@ -21,6 +21,15 @@ The CMO of the online retail store wants to view the information on the top 10 c
 customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they 
 remain satisfied with their products.
 
+![image](https://github.com/YashMohare/Online-Retail-Sales-Dashboard-_PowerBi/assets/160584848/2acbad9b-f34e-4063-a626-69dcc5061209)
+
+
+
+
+
+
+
+
 4))
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products.
 Once the CEO gets an idea of the regions that have high demand ?
